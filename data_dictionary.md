@@ -5,10 +5,10 @@ date_recorded - The date the row was entered
 funder - Who funded the well
 gps_height - Altitude of the well
 installer - Organization that installed the well
-longitude - GPS coordinate
-latitude - GPS coordinate
+longitude - GPS coordinate of the well
+latitude - GPS coordinate of the well
 wpt_name - Name of the waterpoint if there is one
-num_private -
+num_private - Number of Private(business / gov) users at the well
 basin - Geographic water basin
 subvillage - Geographic location
 region - Geographic location
@@ -21,7 +21,7 @@ public_meeting - True/False
 recorded_by - Group entering this row of data
 scheme_management - Who operates the waterpoint
 scheme_name - Who operates the waterpoint
-permit - If the waterpoint is permitted
+permit - A
 construction_year - Year the waterpoint was constructed
 extraction_type - The kind of extraction the waterpoint uses
 extraction_type_group - The kind of extraction the waterpoint uses
