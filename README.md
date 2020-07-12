@@ -1,6 +1,7 @@
 # Tanzanian Waterpoint Classification
 
 ![Pumping Photo](images/pumping.jpg "Tanzanian Water Pump")
+
 image courtesy of [flickr user christophercjensen](https://www.flickr.com/photos/christophercjensen/3559607145)
 
 ## Author: Michael Erb
@@ -9,7 +10,7 @@ image courtesy of [flickr user christophercjensen](https://www.flickr.com/photos
 
 The Tanzanian Ministry of Water needs to ensure that clean, potable water is available to communities across Tanzania using limited resources.
 
-That water can be provided by improving the maintenance of existing waterpoints and by expanding the number of waterpoints
+That water can be provided by improving the maintenance of existing waterpoints and by expanding the number of waterpoints.
 
 If we can accurately classify a waterpoint, the Ministry will have a better understanding of their existing infrastructure, and because of cost savings, will be able to reallocate existing resources to expand the water infrastructure.
 
