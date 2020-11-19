@@ -53,4 +53,4 @@ After tuning the Random Forest Classifier, it had a 73% overall accuracy, and re
 * **Identify Useless Waterpoints**: The Random Forest Classifier found that the most important feature for classifying a waterpoint was whether it was dry, meaning regardless of the functionality of the water point there was no water.  In the dataset, dry waterpoints were almost exclusively non-functional.  An attempt should be made to train the model to further classify non-functional waterpoints as to visit or ignore.  Dry is an obvious characteristic, but a classification model may be able to determine if there are others or combinations of others, to assist in further optimizing waterpoint maintenance operations.
 
 ## For Further Information
-Please review the narrative of the analysis in the [Jupyter notebooks](index.ipynb) or review the [presentation](Tanzanian_Waterpoints_Presentation.pdf).
+Please review the narrative of the analysis in the [Jupyter notebooks](index.ipynb), review the [presentation](Tanzanian_Waterpoints_Presentation.pdf), or read the related [blog article](https://medium.com/analytics-vidhya/a-random-forest-classifier-with-imbalanced-data-7ef4d9ebedb8).
